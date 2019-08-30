@@ -223,6 +223,7 @@ stbc|Star Trek: Bridge Commander|gamespy1|port_query=22101
 stvef|Star Trek: Voyager - Elite Force|quake3|port_query=27960
 stvef2|Star Trek: Voyager - Elite Force 2|quake3|port_query=29253
 
+squad|Squad|valve|port=27165
 swbf|Star Wars: Battlefront|gamespy2|port_query=3658
 swbf2|Star Wars: Battlefront 2|gamespy2|port_query=3658
 swjk|Star Wars: Jedi Knight|quake3|port_query=29070
